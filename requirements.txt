@@ -1,0 +1,12 @@
+jupyterlab
+numpy
+pandas
+matplotlib
+seaborn
+streamlit==1.26.0
+python
+folium
+streamlit_folium
+geopandas
+streamlit-option-menu
+pygwalker

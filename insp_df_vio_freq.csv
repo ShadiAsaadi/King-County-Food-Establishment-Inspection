@@ -1,0 +1,148 @@
+,violation_description,Violation Frequency 
+0,"0100 - PIC certified by accredited program or compliance with code, or correct answers",287
+1,0100 - PIC certified by accredited program...,56
+2,"0100 - PIC certified by accredited programor compliance with code, or correct answers",1
+3,"0100 - PIC present, demonstrates knowledge and performs duties to maintain AMC; certified manager on",374
+4,0200 - Food Worker Cards current for all food workers; new food workers trained,5047
+5,0200 - Food Worker Cards current for all food...,2178
+6,0300 - Proper ill worker and conditional employee practices; no ill workers...,12
+7,0300 - Proper ill worker practices; no ill workers...,5
+8,0400 - Hands washed as required,1778
+9,0500 - Proper barriers used to prevent bare hand contact with ready to eat foods.,759
+10,0500 - Proper barriers used to prevent bare hand contact with ready-to-eat foods,77
+11,0500 - Proper methods used to prevent bare hand...,385
+12,0600 - Adequate handwashing facilities,10735
+13,0700 - Food obtained from approved source,138
+14,"0800 - Water supply, ice from approved source",38
+15,0900 - Proper washing of fruits and vegetables,572
+16,"1000 - Food in good condition, safe and unadulterat...",90
+17,"1000 - Food in good condition, safe and unadulterated; approved additives",268
+18,"1100 - Proper disposition of returned,  served...",6
+19,"1100 - Proper disposition of returned, previously served, unsafe, or contaminated food",30
+20,"1100 - Proper disposition of returned, previously served, unsafe, or contaminated food; Date marking",58
+21,1200 - Proper shellfish identification; proper parasit...,150
+22,1200 - Proper shellstock ID; wild mushroom ID;  parasite destruction procedures for fish,893
+23,1300 - Food contact surfaces and utensils used for raw meat thoroughly cleaned and sanitized.  no ..,359
+24,1300 - Food contact surfaces cleaned and sanitized; no cross contamination,103
+25,1300 - Food contact surfaces used for raw meat...,90
+26,1400 - Raw meats below and away from RTE food,783
+27,1400 - Raw meats below and away from ready to eat food; species separarted,20
+28,1400 - Raw meats below and away from ready to eat food; species separated,2914
+29,1400 - Raw meats below and away from ready-to-eat food; species separated,655
+30,1500 - Proper handling of pooled eggs,486
+31,1500 - Proper preparation of raw shell eggs,79
+32,1600 - Proper cooling procedure,3730
+33,1710 - Proper hot holding temperatures (less than 130 degrees F ),791
+34,1710 - Proper hot holding temperatures (less than130 degrees),2176
+35,1720 - Proper hot holding temperatures; between 130 degrees F to 134 degrees F,642
+36,1720 - Proper hot holding temperatures; between 130 degrees F...,341
+37,1800 - Proper cooking time and temperature,62
+38,1800 - Proper cooking time and temperature; proper use of non-continuous cooking,230
+39,1900 - No room temperature storage; proper use of time as a control,380
+40,1900 - No room temperature storage; proper use of time...,2947
+41,2000 - Proper reheating procedures for hot holding,415
+42,2110 - Proper cold holding temperatures (greater than  45 degrees F),11969
+43,2120 - Proper cold holding temperatures ( 42 degrees F to 45 degrees F),6667
+44,2200 - Accurate thermometer provided and used ...,2807
+45,2200 - Accurate thermometer provided and used to evaluate temperature of TCS foods,337
+46,2300 - Proper Consumer Advisory posted for raw ...,780
+47,2300 - Proper consumer advisory posted for raw or undercooked foods,183
+48,2400 - Pasteurized foods used as required; prohibited foods not offered,7
+49,2400 - Pasteurized foods used as required;...,11
+50,"2500 - Toxic substances properly identified, stored, used",365
+51,"2500 - Toxic substances properly identified,...",1799
+52,"2600 - Compliance with risk control plans, variances, plan of operation; valid permit; appr procedur",606
+53,"2600 - Compliance with risk control plans, variances,...",94
+54,2600 - Compliance with valid permit; operating and risk control plans and required written procedure,318
+55,2700 - Compliance with variance; specialized processes; HACCP plan,52
+56,2700 - Variance obtained for specialized processing ...,169
+57,2800 - Food received at proper temperature,168
+58,2900 - Adequate equipment for temperature control,1886
+59,"3000 - Floors, walls, or ceilings in unsanitary condition",1
+60,3000 - Proper thawing methods used,1901
+61,3100 - Food properly labeled; proper date marking,226
+62,"3100 - Proper labeling, signage",2052
+63,"3200 - Insects, rodents, animals not present; entrance controlled.",1821
+64,"3200 - Insects, rodents, animals not present; entrance...",354
+65,3300 - Potential food contamination prevented during ...,1758
+66,"3300 - Potential food contamination prevented during delivery,  preparation, storage, display",5281
+67,3400 - Pool surface color is not white or light color,1
+68,"3400 - Wiping cloths properly used, stored",1925
+69,"3400 - Wiping cloths properly used, stored, proper sanitizer",7863
+70,"3400 - Wiping cloths properly used, stored, sanitizer concentration",1657
+71,3500 - Employee cleanliness and hygiene,256
+72,"3600 - Proper eating, tasting, drinking, or tobacco use",438
+73,3700 - In-use utensils properly stored,3361
+74,"3800 - Utensils, equipment, linens properly stored, used, handled",79
+75,"3800 - Utensils, equipment, linens properly stored,...",457
+76,3900 - Single use and single service articles properly...,498
+77,"3900 - Single-use and single-service articles properly stored, used",45
+78,4000 - Food and non-food surfaces properly used and constructed; cleanable,315
+79,4000 - Food and non-food surfaces properly used and...,1497
+80,"4100 - Warewashing facilities properly installed, maintained, used;",1088
+81,"4100 - Warewashing facilities properly installed,...",6432
+82,"4200 - Food-contact surfaces maintained, clean, sanitized",6350
+83,4300 - Non-food contact surfaces maintained and clean,4394
+84,"4400 - Plumbing properly sized, installed,...",2198
+85,"4500 - Sewage, waste water properly disposed",181
+86,"4600 - Toilet facilities properly constructed, supplied, cleaned",163
+87,"4600 - Toilet facilities properly constructed, suppliedà",3
+88,"4600 - Toilet facilities properly constructed, supplil...",58
+89,"4700 - Garbage, refuse properly disposed; facilities maintained",65
+90,"4700 - Garbage, refuse properly disposed; facilities...",407
+91,"4800 - Physical facilities properly installed,...",2797
+92,4900 - Adequate ventilation; lighting; designated area...,949
+93,4900 - Adequate ventilation; lighting; designated areas used,82
+94,5000 - Posting of permit; mobile establishment name easily visible,226
+95,5000 - Posting of permit; mobile establishment name...,416
+96,Accurate thermometer provided and used ...,431
+97,Adequate equipment for temperature control,376
+98,Adequate handwashing facilities,1319
+99,Adequate ventilation; lighting; designated area...,220
+100,"Compliance with risk control plans, variances,...",24
+101,Employee cleanliness and hygiene,66
+102,Food Worker Cards current for all food...,1250
+103,Food and non-food surfaces properly used and...,148
+104,Food contact surfaces used for raw meat...,31
+105,"Food in good condition, safe and unadulterat...",39
+106,Food obtained from approved source,15
+107,Food received at proper temperature,7
+108,"Food-contact surfaces maintained, clean, sanitized",643
+109,"Garbage, refuse properly disposed; facilities...",102
+110,Hands washed as required,292
+111,In-use utensils properly stored,470
+112,"Insects, rodents, animals not present; entrance...",174
+113,No room temperature storage; proper use of time...,328
+114,Non-food contact surfaces maintained and clean,604
+115,PIC certified by accredited program...,72
+116,"Physical facilities properly installed,...",605
+117,"Plumbing properly sized, installed,...",260
+118,Posting of permit; mobile establishment name...,156
+119,Potential food contamination prevented during ...,910
+120,Proper Consumer Advisory posted for raw ...,210
+121,Proper cold holding temperatures ( 42 degrees F to 45 degrees F),272
+122,Proper cold holding temperatures (greater than  45 degrees F),1308
+123,Proper cooking time and temperature,30
+124,Proper cooling procedure,311
+125,"Proper disposition of returned,  served...",4
+126,"Proper eating, tasting, drinking, or tobacco use",68
+127,Proper handling of pooled eggs,72
+128,Proper hot holding temperatures (less than 130 degrees F ),443
+129,Proper hot holding temperatures; between 130 degrees F...,185
+130,Proper ill worker practices; no ill workers...,1
+131,"Proper labeling, signage",256
+132,Proper methods used to prevent bare hand...,234
+133,Proper reheating procedures for hot holding,73
+134,Proper shellfish identification; proper parasit...,112
+135,Proper thawing methods used,153
+136,Proper washing of fruits and vegetables,21
+137,Raw meats below and away from RTE food,403
+138,"Sewage, waste water properly disposed",30
+139,Single use and single service articles properly...,66
+140,"Toilet facilities properly constructed, supplil...",32
+141,"Toxic substances properly identified,...",247
+142,"Utensils, equipment, linens properly stored,...",74
+143,Variance obtained for specialized processing ...,4
+144,"Warewashing facilities properly installed,...",829
+145,"Water supply, ice from approved source",11
+146,"Wiping cloths properly used, stored",1127

@@ -1,0 +1,53 @@
+violation_description,violation_frequency
+"0100 - PIC certified by accredited program or compliance with code, or correct answers",790
+0200 - Food Worker Cards current for all food workers; new food workers trained,8475
+0300 - Proper ill worker and conditional employee practices; no ill workers...,18
+0400 - Hands washed as required,2070
+0500 - Proper barriers used to prevent bare hand contact with ready to eat foods.,1455
+0600 - Adequate handwashing facilities,12054
+0700 - Food obtained from approved source,153
+"0800 - Water supply, ice from approved source",49
+0900 - Proper washing of fruits and vegetables,593
+"1000 - Food in good condition, safe and unadulterat...",397
+"1100 - Proper disposition of returned,  served...",98
+1200 - Proper shellfish identification; proper parasit...,1155
+1300 - Food contact surfaces and utensils used for raw meat thoroughly cleaned and sanitized.  no ..,583
+1400 - Raw meats below and away from RTE food,4775
+1500 - Proper handling of pooled eggs,637
+1600 - Proper cooling procedure,4041
+1710 - Proper hot holding temperatures (less than 130 degrees F ),3410
+1720 - Proper hot holding temperatures; between 130 degrees F to 134 degrees F,1168
+1800 - Proper cooking time and temperature,322
+1900 - No room temperature storage; proper use of time as a control,3655
+2000 - Proper reheating procedures for hot holding,488
+2110 - Proper cold holding temperatures (greater than  45 degrees F),13277
+2120 - Proper cold holding temperatures ( 42 degrees F to 45 degrees F),6939
+2200 - Accurate thermometer provided and used ...,3575
+2300 - Proper Consumer Advisory posted for raw ...,1173
+2400 - Pasteurized foods used as required; prohibited foods not offered,18
+"2500 - Toxic substances properly identified, stored, used",2411
+"2600 - Compliance with risk control plans, variances, plan of operation; valid permit; appr procedur",1042
+2700 - Compliance with variance; specialized processes; HACCP plan,225
+2800 - Food received at proper temperature,175
+2900 - Adequate equipment for temperature control,2262
+"3000 - Floors, walls, or ceilings in unsanitary condition",2055
+3100 - Food properly labeled; proper date marking,2534
+"3200 - Insects, rodents, animals not present; entrance controlled.",2349
+3300 - Potential food contamination prevented during ...,7949
+3400 - Pool surface color is not white or light color,12573
+3500 - Employee cleanliness and hygiene,322
+"3600 - Proper eating, tasting, drinking, or tobacco use",506
+3700 - In-use utensils properly stored,3831
+"3800 - Utensils, equipment, linens properly stored, used, handled",610
+3900 - Single use and single service articles properly...,609
+4000 - Food and non-food surfaces properly used and constructed; cleanable,1960
+"4100 - Warewashing facilities properly installed, maintained, used;",1917
+"4200 - Food-contact surfaces maintained, clean, sanitized",6993
+4300 - Non-food contact surfaces maintained and clean,4998
+"4400 - Plumbing properly sized, installed,...",2458
+"4500 - Sewage, waste water properly disposed",211
+"4600 - Toilet facilities properly constructed, supplied, cleaned",256
+"4700 - Garbage, refuse properly disposed; facilities maintained",574
+"4800 - Physical facilities properly installed,...",3402
+4900 - Adequate ventilation; lighting; designated area...,1251
+5000 - Posting of permit; mobile establishment name easily visible,798
